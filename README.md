@@ -5,3 +5,5 @@ Main Project in Ultimate React Course. Built with React Query and Supabase.
 Currently, two live deploy are available:
 
 - [@netlify deploy](https://the-raynoid-oasis.netlify.app/dashboard)
+
+- [@vercel deploy](https://raynoid-oasis.vercel.app/login)
